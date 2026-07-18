@@ -177,47 +177,7 @@ The models were evaluated using the following metrics:
  
 ---
 
-# 📷 Project Screenshots
-
-## Dataset Preview
-
-```
-Images/dataset_preview.png
-```
-
----
-
-## Exploratory Data Analysis
-
-```
-Images/eda.png
-```
-
----
-
-## Correlation Heatmap
-
-```
-Images/HeatMap.png
-```
-
----
-
-## Confusion Matrix
-
-```
-Images/confusion matrix.png
-```
-
----
-
-## Streamlit Application
-
-```
-images/streamlit_app.png
-```
-
----
+ 
 
 # 🛠️ Technologies Used
 
@@ -235,42 +195,7 @@ images/streamlit_app.png
 
 ---
 
-# 📁 Project Structure
-
-```
-Loan-Approval-Prediction-System/
-
-│
-
-├── data/
-│   └── loan_approval_dataset.csv
-
-├── notebook/
-│   └── Loan_Approval_Prediction_System.ipynb
-
-├── models/
-│   └── best_model.pkl
-
-├── app/
-│   └── streamlit_app.py
-
-├── images/
-
-│   ├── dataset_preview.png
-│   ├── eda.png
-│   ├── heatmap.png
-│   ├── confusion_matrix.png
-│   └── streamlit_app.png
-
-├── requirements.txt
-
-├── README.md
-
-└── .gitignore
-```
-
----
-
+  
 # 🚀 Installation
 
 Clone the repository
@@ -328,7 +253,7 @@ streamlit run app/streamlit_app.py
 
 Aspiring Machine Learning Engineer passionate about building AI-powered solutions for real-world business problems.
 
-- 💼 LinkedIn: *(Add your profile link)*
+- 💼 LinkedIn: *![(Salahud-Din Ayubi)](https://www.linkedin.com/in/salahud-din-ayubi/)*
 - 💻 GitHub: *(Add your GitHub profile)*
 
 ---
