@@ -253,13 +253,6 @@ streamlit run app/streamlit_app.py
 
 Aspiring Machine Learning Engineer passionate about building AI-powered solutions for real-world business problems.
 
-- 💼 LinkedIn: *![(Salahud-Din Ayubi)](https://www.linkedin.com/in/salahud-din-ayubi/)*
-- 💻 GitHub: *(Add your GitHub profile)*
-
----
-
-# ⭐ Support
-
-If you found this project helpful, consider giving this repository a **⭐ Star** on GitHub.
-
-It motivates me to continue building and sharing practical Machine Learning projects.
+- 💼 LinkedIn: *[(Salahud-Din Ayubi)](https://www.linkedin.com/in/salahud-din-ayubi/)*
+- 💻 GitHub: *[(SalahuddinGenAI)](https://github.com/salahuddinGenAI)*
+ 
