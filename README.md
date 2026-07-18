@@ -170,12 +170,11 @@ The models were evaluated using the following metrics:
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 |--------|---------:|----------:|--------:|----------:|
-| Logistic Regression | XX% | XX% | XX% | XX% |
-| Decision Tree | XX% | XX% | XX% | XX% |
-| Random Forest | XX% | XX% | XX% | XX% |
+| Logistic Regression | 90.82% | 91% | 91% | 91% |
+| Random Forest | 95.92% | 96% | 96% | 96% |
+| Decision Tree | 96.94% | 97% | 96% | 97% |
 
-> Replace the placeholder values with your actual evaluation results.
-
+ 
 ---
 
 # 📷 Project Screenshots
@@ -183,7 +182,7 @@ The models were evaluated using the following metrics:
 ## Dataset Preview
 
 ```
-images/dataset_preview.png
+Images/dataset_preview.png
 ```
 
 ---
