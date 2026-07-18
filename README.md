@@ -190,7 +190,7 @@ Images/dataset_preview.png
 ## Exploratory Data Analysis
 
 ```
-images/eda.png
+Images/eda.png
 ```
 
 ---
@@ -198,7 +198,7 @@ images/eda.png
 ## Correlation Heatmap
 
 ```
-images/heatmap.png
+Images/HeatMap.png
 ```
 
 ---
@@ -206,7 +206,7 @@ images/heatmap.png
 ## Confusion Matrix
 
 ```
-images/confusion_matrix.png
+Images/confusion matrix.png
 ```
 
 ---
