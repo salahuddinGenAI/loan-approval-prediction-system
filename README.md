@@ -117,8 +117,7 @@ The final model was validated using 5-fold cross-validation, giving a consistent
 
 ## 🌐 Live Demo
 
-🔗 [Try the app here](#) (https://salahuddingenai-loan-approval-pred-appfilesstreamlit-app-mfkjiy.streamlit.app/)
-
+🔗 [[Try the app here ](https://salahuddingenai-loan-approval-pred-appfilesstreamlit-app-mfkjiy.streamlit.app/)] 👈  
 ---
 
 ## 🛠️ Tech Stack
@@ -140,7 +139,7 @@ This project is built for **learning and portfolio purposes only**. Predictions 
 ## 🙋‍♂️ About Me
 
 Made with ❤️ by **Salahud-Din Ayubi**
-- 🔗 GitHub: [your-username](https://github.com/your-username)
-- 🔗 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- 🔗 GitHub: [salahuddinGenAI](https://github.com/salahuddinGenAI/loan-approval-prediction-system)
+- 🔗 LinkedIn: [Salahud-Din Ayubi](https://www.linkedin.com/in/salahud-din-ayubi/)
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
