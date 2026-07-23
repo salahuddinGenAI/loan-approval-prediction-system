@@ -117,7 +117,7 @@ The final model was validated using 5-fold cross-validation, giving a consistent
 
 ## 🌐 Live Demo
 
-🔗 [Try the app here](#) *(add your Streamlit Community Cloud link once deployed)*
+🔗 [Try the app here](#) (https://salahuddingenai-loan-approval-pred-appfilesstreamlit-app-mfkjiy.streamlit.app/)
 
 ---
 
